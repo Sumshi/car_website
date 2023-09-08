@@ -10,7 +10,11 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: url(images/contact.jpg);
+    /*background: url(contact.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;*/
+    background-color: rgba(255, 228, 196, 0.836);
 }
 .wrapper{
     width: 420px;
