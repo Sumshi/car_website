@@ -1,0 +1,41 @@
+
+html,body{
+  margin: 0;
+  padding: 0;
+}
+
+*{
+  box-sizing: border-box;
+  font-family: serif;
+}
+
+h1{
+  color: seagreen;
+  text-align: center;
+  padding-top: 20px;
+}
+body{
+  background-color: black;
+   background-blend-mode:multiply ;
+}
+p{
+  color: darkkhaki;
+  text-align: center;
+  font-size: 20px;
+  padding-top: 20px;
+}
+h1{
+  background-image: url(bg1.jpg);
+}
+.clm{
+  float: left;
+  width: 33.33%;
+  padding: 2px;
+
+}
+.clm img{
+  height: 300px;
+}
+
+
+

@@ -1,0 +1,32 @@
+h1{
+  color: steelblue;
+  text-align: center;
+
+}
+h2{
+  color: darkgoldenrod;
+  text-align: center;
+}
+html,body{
+  margin: 0;
+  padding: 0;
+}
+
+*{
+  box-sizing: border-box;
+  font-family: serif;
+}
+
+body{
+  background-color: grey;
+  background-blend-mode: multiply;
+}
+p{
+  text-align: center;
+}
+.motion{
+  background-image: url(si.jpg);
+}
+.jeep{
+   background-position: left;
+}

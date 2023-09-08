@@ -1,0 +1,57 @@
+h1{
+  color: skyblue;
+  text-align: center;
+  padding-top: 20px;
+}
+body{
+  background-image: url(car8.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(0, 0, 0, .6);
+  background-blend-mode:multiply ;
+}
+
+.container{
+text-align: center;
+font-size: 30px;
+padding-top: 20px;
+
+
+}
+.container li{
+ display: inline;
+ background: transparent;
+
+}
+.sum p i{
+  align-items: center;
+  font-size: 20px;
+  color: lemonchiffon;
+  
+}
+.container a{
+  padding: .5em;
+  text-decoration: none;
+  display: inline-block;
+  background: transparent;
+}
+
+.container a:hover{
+  background-color: darkgreen;
+}
+
+html,body{
+  margin: 0;
+  padding: 0;
+}
+*{
+  box-sizing: border-box;
+  font-family: serif;
+}
+
+p{
+  color: skyblue;
+  text-align: center;
+  font-size: 20px;
+  padding-top: 50px;
+}

@@ -1,0 +1,45 @@
+html,body{
+  margin: 0;
+  padding: 0;
+}
+
+*{
+  box-sizing: border-box;
+  font-family: serif;
+}
+
+h1{
+  color: lightgoldenrodyellow;
+  text-align: center;
+  padding-top: 20px;
+}
+
+body{
+  background-image: url(jaguar.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(0, 0, 0, .6);
+  background-blend-mode:multiply ;
+}
+p{
+  color: aliceblue;
+    font-family:ui-monospace ;
+  text-align: center;
+  padding-top: 40px;
+}
+h2{
+   color:lightgoldenrodyellow;
+   text-align: center;
+
+}
+h3{
+   color:lightgoldenrodyellow;
+   text-align: center;
+
+}
+
+
+
+
+
+
